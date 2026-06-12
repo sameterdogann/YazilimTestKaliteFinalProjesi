@@ -1,11 +1,11 @@
-# 🛒 E-Ticaret Yazılım Test ve Kalite Analiz Projesi (Final)
+### E-Ticaret Yazılım Test ve Kalite Analiz Projesi (Final)
 
 ## 👤 Öğrenci Bilgileri
 * **Ad Soyad:** Samet ERDOĞAN
 * **Öğrenci No:** 20230108039
 * **Bölüm:** Bilgisayar Programcılığı
 * **Üniversite:** Piri Reis Üniversitesi
-* **Ders:** MTH2005 Yazılım Test ve Kalitesi
+* **Ders Kodu ve Adı:** MTH2005 - Yazılım Test ve Kalitesi
 * **Öğretim Görevlisi:** Emrah SARIÇİÇEK
 * **Teslim Tarihi:** 12/06/2026
 
