@@ -47,7 +47,7 @@ class Program
 
         Console.ResetColor();
         Console.WriteLine("\n==============================================================");
-        Console.WriteLine("İşlem tamamlandı. Detaylı rapor 'README.md' dosyasındadır.");
+        Console.WriteLine("İşlem tamamlandı.");
         Console.WriteLine("Çıkmak için bir tuşa basın...");
         Console.ReadKey();
     }
