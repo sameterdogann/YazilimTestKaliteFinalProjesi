@@ -9,7 +9,7 @@ class Program
         Console.Title = "Final Projesi | E-Ticaret Test Otomasyonu";
         Console.ForegroundColor = ConsoleColor.Cyan;
         Console.WriteLine("╔════════════════════════════════════════════════════════════╗");
-        Console.WriteLine("║        E-TİCARET SİSTEMİ - TEST VE KALİTE ANALİZİ          ║");
+        Console.WriteLine("║                   E-TİCARET SİSTEMİ                        ║");
         Console.WriteLine("║               Geliştirici: Samet Erdoğan                   ║");
         Console.WriteLine("╚════════════════════════════════════════════════════════════╝\n");
 
